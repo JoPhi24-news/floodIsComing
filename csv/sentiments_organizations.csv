@@ -1,6 +1,21 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Umweltministerium,Umweltministerium,ORG,0.4666666666666666,0.0,de,3
 europäischen Marktes,europäischen Marktes,ORG,-0.85,0.0,de,2
 Schutzbauten,Schutzbauten,ORG,-0.7,0.0,de,2
-dpa,dpa,ORG,0.0,0.0,de,1
+nan,nan,ORG,0.0,0.0,de,1
+steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1
+Hochwasser…,Hochwasser…,ORG,-1.0,0.0,de,1
+Die Grünen,Die Grünen,ORG,-0.7,0.0,de,1
+Wiener Philharmonikern,Wiener Philharmonikern,ORG,0.7,0.0,de,1
+Diktatorensohn h…,Diktatorensohn h…,ORG,0.0,0.0,de,1
+CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1
+Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1
+Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1
+Bund,Bund,ORG,0.0,0.0,de,1
+Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1
+reg…,reg…,ORG,0.0,0.0,de,1
 Ex-Hurrikans Gabrielle,Ex-Hurrikans Gabrielle,ORG,0.0,0.0,de,1
+au…,au…,ORG,0.0,0.0,de,1
+dpa,dpa,ORG,0.0,0.0,de,1
+Umwe…,Umwe…,ORG,0.0,0.0,de,1
 Sparkassen-Eisdom,Sparkassen-Eisdom,ORG,0.7,0.0,de,1

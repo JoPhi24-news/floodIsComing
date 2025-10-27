@@ -1,37 +1,80 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Mexiko,Mexiko,LOC,-0.20999999999999996,0.3,de,10
-Elbe,Elbe,LOC,-0.03888888888888889,0.5,de,9
-Arzberg,Arzberg,LOC,-0.11666666666666665,0.8333333333333334,de,3
-Valencia,Valencia,LOC,-0.5666666666666667,0.0,de,3
-Korsika,Korsika,LOC,0.0,0.0,de,3
+Mexiko,Mexiko,LOC,-0.09545454545454544,0.36363636363636365,de,22
+Elbe,Elbe,LOC,0.0,0.631578947368421,de,19
+Brandenburg,Brandenburg,LOC,0.15454545454545454,0.36363636363636365,de,11
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.2125,0.5,de,8
+Niedersachsen,Niedersachsen,LOC,0.24285714285714285,0.42857142857142855,de,7
+Schwarze Elster,Schwarze Elster,LOC,0.0,0.6666666666666666,de,6
+Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,4
+Ibiza,Ibiza,LOC,0.175,0.0,de,4
+…,…,LOC,0.4666666666666666,0.0,de,3
 Nordsachsen,Nordsachsen,LOC,0.0,0.6666666666666666,de,3
-Philippinen,Philippinen,LOC,0.2333333333333333,0.0,de,3
+Hamburg,Hamburg,LOC,0.0,0.3333333333333333,de,3
+Deutschland,Deutschland,LOC,-0.2333333333333333,0.0,de,3
+Nepal,Nepal,LOC,0.4666666666666666,0.3333333333333333,de,3
+Arzberg,Arzberg,LOC,-0.11666666666666665,0.8333333333333334,de,3
 Risiko,Risiko,LOC,0.2333333333333333,0.6666666666666666,de,3
-Bualoi,Bualoi,LOC,0.0,0.0,de,2
-Nordseeküste,Nordseeküste,LOC,0.0,0.0,de,2
-Hamburg,Hamburg,LOC,0.0,0.0,de,2
-Fango,Fango,LOC,0.0,0.0,de,2
-Ibiza,Ibiza,LOC,0.0,0.0,de,2
-Spaniens,Spaniens,LOC,0.0,0.0,de,2
-Landkreis Nordsachsen,Landkreis Nordsachsen,LOC,0.0,1.0,de,2
+Korsika,Korsika,LOC,0.0,0.0,de,3
+Philippinen,Philippinen,LOC,0.2333333333333333,0.0,de,3
+Valencia,Valencia,LOC,-0.5666666666666667,0.0,de,3
 Selkestraße,Selkestraße,LOC,1.0,0.0,de,2
-Halle,Halle,LOC,1.0,0.0,de,2
+Landstriche,Landstriche,LOC,0.7,0.0,de,2
+Fango,Fango,LOC,0.0,0.0,de,2
+Erdrutschen,Erdrutschen,LOC,0.0,0.0,de,2
+Nordsee,Nordsee,LOC,0.0,0.0,de,2
+Rettung,Rettung,LOC,0.0,1.0,de,2
 Außenwelt,Außenwelt,LOC,0.0,1.0,de,2
-Saha…,Saha…,LOC,0.0,0.0,de,1
-La Fuensanta,La Fuensanta,LOC,0.0,0.0,de,1
-Nordsee,Nordsee,LOC,0.0,0.0,de,1
-Joshua,Joshua,LOC,0.0,0.0,de,1
-Dresden,Dresden,LOC,0.0,1.0,de,1
-Feu…,Feu…,LOC,0.0,0.0,de,1
-Mexikos,Mexikos,LOC,0.7,0.0,de,1
-Spanier,Spanier,LOC,-1.0,0.0,de,1
-Donau,Donau,LOC,0.0,0.0,de,1
-Zentrum,Zentrum,LOC,0.7,0.0,de,1
+St. Pölten-Harland,St. Pölten-Harland,LOC,0.35,0.0,de,2
+Taifun Halong,Taifun Halong,LOC,0.0,0.0,de,2
+Mount Everest,Mount Everest,LOC,-0.35,0.0,de,2
+Bualoi,Bualoi,LOC,0.0,0.0,de,2
+Halle,Halle,LOC,1.0,0.0,de,2
+Spaniens,Spaniens,LOC,0.0,0.0,de,2
+Stadtteile,Stadtteile,LOC,0.7,0.0,de,2
+Alaskas,Alaskas,LOC,0.0,0.0,de,2
+Atlantik,Atlantik,LOC,0.0,0.0,de,2
+Landkreis Nordsachsen,Landkreis Nordsachsen,LOC,0.0,1.0,de,2
 Dauerregen,Dauerregen,LOC,0.0,0.0,de,1
+La Fuensanta,La Fuensanta,LOC,0.0,0.0,de,1
+Zentrum,Zentrum,LOC,0.7,0.0,de,1
+Mexikos,Mexikos,LOC,0.7,0.0,de,1
+Protesten,Protesten,LOC,0.25,0.0,de,1
+Manila,Manila,LOC,-0.15000000000000002,0.0,de,1
+Mexiko-Stadt,Mexiko-Stadt,LOC,0.0,0.0,de,1
+Spanier,Spanier,LOC,-1.0,0.0,de,1
+Poza Rica,Poza Rica,LOC,0.0,0.0,de,1
+Dörfern,Dörfern,LOC,0.7,0.0,de,1
+Orchesters,Orchesters,LOC,0.0,0.0,de,1
+Fel…,Fel…,LOC,0.0,0.0,de,1
+Joshua,Joshua,LOC,0.0,0.0,de,1
+Feu…,Feu…,LOC,0.0,0.0,de,1
+Weser,Weser,LOC,0.0,0.0,de,1
+Cazones,Cazones,LOC,0.0,0.0,de,1
+Iden im …,Iden im …,LOC,0.0,0.0,de,1
+Dresden,Dresden,LOC,0.0,1.0,de,1
 sn,sn,LOC,0.0,1.0,de,1
-Pielachtal,Pielachtal,LOC,0.0,0.0,de,1
-Bezirk St. Pölten,Bezirk St. Pölten,LOC,0.0,0.0,de,1
-Hofstetten-Grünau,Hofstetten-Grünau,LOC,0.0,0.0,de,1
-Verbrenner-Aus,Verbrenner-Aus,LOC,-1.0,0.0,de,1
+Donau,Donau,LOC,0.0,0.0,de,1
+Saha…,Saha…,LOC,0.0,0.0,de,1
 Häfen,Häfen,LOC,-0.35,0.5,de,1
+Verbrenner-Aus,Verbrenner-Aus,LOC,-1.0,0.0,de,1
+Hofstetten-Grünau,Hofstetten-Grünau,LOC,0.0,0.0,de,1
+Bezirk St. Pölten,Bezirk St. Pölten,LOC,0.0,0.0,de,1
+Pielachtal,Pielachtal,LOC,0.0,0.0,de,1
+Baleareninsel,Baleareninsel,LOC,0.7,0.0,de,1
+Europa,Europa,LOC,-1.0,0.0,de,1
+Iden im,Iden im,LOC,0.0,0.0,de,1
+Pelzfarmen,Pelzfarmen,LOC,0.0,0.0,de,1
+Veracruz,Veracruz,LOC,0.0,0.0,de,1
+Stadtstaaten Bremen,Stadtstaaten Bremen,LOC,0.0,1.0,de,1
+Emden,Emden,LOC,0.0,0.0,de,1
+manövrierunfähiger,manövrierunfähiger,LOC,0.0,0.0,de,1
+Sturmflut,Sturmflut,LOC,0.0,0.0,de,1
+Deutschlands,Deutschlands,LOC,0.0,0.0,de,1
+Europas,Europas,LOC,0.0,0.0,de,1
+Sturmtief Bäume,Sturmtief Bäume,LOC,0.0,0.0,de,1
+Frankreich,Frankreich,LOC,0.0,0.0,de,1
+Ems,Ems,LOC,0.0,0.0,de,1
+Elb-Pegel St. Pauli,Elb-Pegel St. Pauli,LOC,0.0,1.0,de,1
+Deiche,Deiche,LOC,0.7,0.0,de,1
+Unwettern,Unwettern,LOC,0.7,0.0,de,1
 d…,d…,LOC,0.0,0.0,de,1
