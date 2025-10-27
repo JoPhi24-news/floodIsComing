@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.51
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.49491291625
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,2,0.466485111
-'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.44649371434090906
+'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.446493714340909
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.4335
 'Überschwemmung',de,Hazard,#9e3215,#d64118,3,0.3119635780003787
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.2460018847714999
-'Hochwasser',de,Hazard,#9e3215,#d64118,2,0.0382003640340909
+'Hochwasser',de,Hazard,#9e3215,#d64118,2,0.051059418065340895
