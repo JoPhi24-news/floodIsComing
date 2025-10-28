@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.5136193992115385
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.51000003
-'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.49491291625
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,2,0.4756665985023923
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,2,0.466485111
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.459021513
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,2,0.45705082425
+'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.44292620381250003
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,2,0.4390505549999999
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.4335
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.4335
