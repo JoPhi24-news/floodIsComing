@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,3,0.2457945721445237
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.2422594840904061
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,3,0.2369011398058219
-'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.22942753889368664
+'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.2294275388936866
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.2204587373762215
 'Überflutung',de,Hazard,#9e3215,#d64118,2,0.2189519620557749
-'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,1,0.2135559162975231
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.2122629352650106
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.2084605094531334
+'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,1,0.19922279885289462
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.19234625296875
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.1702131954297311
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,1,0.1393278400840537
