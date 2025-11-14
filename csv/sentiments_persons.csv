@@ -1,9 +1,12 @@
-,phrase,label,sentiment,subjectivity,language,count
-Pülswerda zu,Pülswerda zu,PER,0.0,0.0,de,1
-Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1
-Sturmtief Detlef,Sturmtief Detlef,PER,0.7,0.0,de,1
-Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1
-Arbeiterkammer si,Arbeiterkammer si,PER,0.0,0.0,de,1
-Ferdinand Marcos junior,Ferdinand Marcos junior,PER,-0.15000000000000002,0.0,de,1
-Spitzname Bongbong,Spitzname Bongbong,PER,-0.15000000000000002,0.0,de,1
-Hurrikan Melissa,Hurrikan Melissa,PER,0.0,0.0,de,1
+,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
+Hennadij Truchanow,Hennadij Truchanow,PER,0.0,0.0,de,2,,,,,,
+Pülswerda zu,Pülswerda zu,PER,0.0,0.0,de,1,,,,,,
+Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1,,,,,,
+Sturmtief Detlef,Sturmtief Detlef,PER,0.7,0.0,de,1,,,,,,
+Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1,,,,,,
+Arbeiterkammer si,Arbeiterkammer si,PER,0.0,0.0,de,1,,,,,,
+Ferdinand Marcos junior,Ferdinand Marcos junior,PER,-0.15000000000000002,0.0,de,1,,,,,,
+Spitzname Bongbong,Spitzname Bongbong,PER,-0.15000000000000002,0.0,de,1,,,,,,
+Hurrikan Melissa,Hurrikan Melissa,PER,0.0,0.0,de,1,,,,,,
+Ex-Bürgermeister von Odessa,Ex-Bürgermeister von Odessa,PER,0.0,0.0,de,1,,,,,,
+Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.0,0.0,de,1,,,,,,
