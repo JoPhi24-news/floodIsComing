@@ -466,7 +466,10 @@ def inqRandomNews():
 
     rndKey = keywordsDF.sample()
     randomNumber = random.random()
-
+    if(not keywordsDF3.empty):
+     if(keywordsDF3.ratioNew.max()>0.49):
+      randomNumber = 0.05 
+       
     print(['randomNumber: ',randomNumber])
     if(not keywordsNewsDF2.empty):
       if(randomNumber>0.8):
