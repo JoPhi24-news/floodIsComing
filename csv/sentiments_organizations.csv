@@ -1,41 +1,45 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Umweltministerium,Umweltministerium,ORG,0.4666666666666666,0.0,de,3,,,,,,
-BSH,BSH,ORG,0.0,0.0,de,2,,,,,,
-europäischen Marktes,europäischen Marktes,ORG,-0.85,0.0,de,2,,,,,,
-Schutzbauten,Schutzbauten,ORG,-0.7,0.0,de,2,,,,,,
-Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,2,,,,,,
-Bayerischen Roten Kreuzes,Bayerischen Roten Kreuzes,ORG,1.0,0.0,de,1,,,,,,
-sa,sa,ORG,0.0,0.0,de,1,,,,,,
-Ministerpräs…,Ministerpräs…,ORG,0.0,0.0,de,1,,,,,,
-nä…,nä…,ORG,0.0,0.0,de,1,,,,,,
-Talsperr…,Talsperr…,ORG,-0.7,0.0,de,1,,,,,,
-bayerische Innenministerium,bayerische Innenministerium,ORG,0.0,0.0,de,1,,,,,,
-Grünen,Grünen,ORG,0.0,0.0,de,1,,,,,,
-nan,nan,ORG,0.0,0.0,de,1,,,,,,
-BRK,BRK,ORG,1.0,0.0,de,1,,,,,,
-Sparkassen-Eisdom,Sparkassen-Eisdom,ORG,0.7,0.0,de,1,,,,,,
-Deutschen Lebensrettungs-Gesellschaft,Deutschen Lebensrettungs-Gesellschaft,ORG,1.0,0.0,de,1,,,,,,
-DLRG,DLRG,ORG,1.0,0.0,de,1,,,,,,
-Katastroph…,Katastroph…,ORG,0.0,0.0,de,1,,,,,,
-KameraOne,KameraOne,ORG,0.0,0.0,de,1,,,,,,
-henrygunthersamuel/…,henrygunthersamuel/…,ORG,0.0,0.0,de,1,,,,,,
-KI-System,KI-System,ORG,0.0,0.0,de,1,,,,,,
-ntv.de,ntv.de,ORG,0.0,0.0,de,1,,,,,,
-Wiener Philharmonikern,Wiener Philharmonikern,ORG,0.7,0.0,de,1,,,,,,
-Hochwasser…,Hochwasser…,ORG,-1.0,0.0,de,1,,,,,,
-Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1,,,,,,
-Umwe…,Umwe…,ORG,0.0,0.0,de,1,,,,,,
-dpa,dpa,ORG,0.0,0.0,de,1,,,,,,
-Masse…,Masse…,ORG,0.0,0.0,de,1,,,,,,
-au…,au…,ORG,0.0,0.0,de,1,,,,,,
-Ex-Hurrikans Gabrielle,Ex-Hurrikans Gabrielle,ORG,0.0,0.0,de,1,,,,,,
-reg…,reg…,ORG,0.0,0.0,de,1,,,,,,
-Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1,,,,,,
-Die Grünen,Die Grünen,ORG,-0.7,0.0,de,1,,,,,,
-steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1,,,,,,
-Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1,,,,,,
-CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1,,,,,,
-AK für besseren Versicherungsschutz,AK für besseren Versicherungsschutz,ORG,0.0,0.0,de,1,,,,,,
-Diktatorensohn h…,Diktatorensohn h…,ORG,0.0,0.0,de,1,,,,,,
-Bund,Bund,ORG,0.0,0.0,de,1,,,,,,
-t3n.de Umweltkatastrophen,t3n.de Umweltkatastrophen,ORG,0.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+SPD,SPD,ORG,-0.3333333333333333,0.0,de,3
+Umweltministerium,Umweltministerium,ORG,0.4666666666666666,0.0,de,3
+europäischen Marktes,europäischen Marktes,ORG,-0.85,0.0,de,2
+Schutzbauten,Schutzbauten,ORG,-0.7,0.0,de,2
+Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,2
+BSH,BSH,ORG,0.0,0.0,de,2
+nan,nan,ORG,0.0,0.0,de,1
+Deutschen Lebensrettungs-Gesellschaft,Deutschen Lebensrettungs-Gesellschaft,ORG,1.0,0.0,de,1
+Talsperr…,Talsperr…,ORG,-0.7,0.0,de,1
+nä…,nä…,ORG,0.0,0.0,de,1
+bayerische Innenministerium,bayerische Innenministerium,ORG,0.0,0.0,de,1
+Grünen,Grünen,ORG,0.0,0.0,de,1
+Bayerischen Roten Kreuzes,Bayerischen Roten Kreuzes,ORG,1.0,0.0,de,1
+BRK,BRK,ORG,1.0,0.0,de,1
+KameraOne,KameraOne,ORG,0.0,0.0,de,1
+DLRG,DLRG,ORG,1.0,0.0,de,1
+Katastroph…,Katastroph…,ORG,0.0,0.0,de,1
+sa,sa,ORG,0.0,0.0,de,1
+henrygunthersamuel/…,henrygunthersamuel/…,ORG,0.0,0.0,de,1
+KI-System,KI-System,ORG,0.0,0.0,de,1
+t3n.de Umweltkatastrophen,t3n.de Umweltkatastrophen,ORG,0.0,0.0,de,1
+Russland,Russland,ORG,1.0,0.0,de,1
+Lan…,Lan…,ORG,0.0,0.0,de,1
+Ministerpräs…,Ministerpräs…,ORG,0.0,0.0,de,1
+Hochwasser…,Hochwasser…,ORG,-1.0,0.0,de,1
+ntv.de,ntv.de,ORG,0.0,0.0,de,1
+Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1
+Umwe…,Umwe…,ORG,0.0,0.0,de,1
+dpa,dpa,ORG,0.0,0.0,de,1
+Masse…,Masse…,ORG,0.0,0.0,de,1
+au…,au…,ORG,0.0,0.0,de,1
+Ex-Hurrikans Gabrielle,Ex-Hurrikans Gabrielle,ORG,0.0,0.0,de,1
+reg…,reg…,ORG,0.0,0.0,de,1
+Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1
+steirische Landeswarnzentrale,steirische Landeswarnzentrale,ORG,-1.0,0.0,de,1
+Sparkassen-Eisdom,Sparkassen-Eisdom,ORG,0.7,0.0,de,1
+Krisenkoordination,Krisenkoordination,ORG,0.0,0.0,de,1
+CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1
+AK für besseren Versicherungsschutz,AK für besseren Versicherungsschutz,ORG,0.0,0.0,de,1
+Diktatorensohn h…,Diktatorensohn h…,ORG,0.0,0.0,de,1
+Wiener Philharmonikern,Wiener Philharmonikern,ORG,0.7,0.0,de,1
+Die Grünen,Die Grünen,ORG,-0.7,0.0,de,1
+Bund,Bund,ORG,0.0,0.0,de,1
+SEZ,SEZ,ORG,1.0,0.0,de,1

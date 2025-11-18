@@ -1,70 +1,76 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-“,“,MISC,,,de,19,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+“,“,MISC,,,de,19
 "Link
 ","Link
-",MISC,,,de,15,,,,,,
-mexikanischen,mexikanischen,MISC,,,de,5,,,,,,
-deutschen,deutschen,MISC,,,de,4,,,,,,
-Ein Jahr nach den verheerenden Überschwemmungen,Ein Jahr nach den verheerenden Überschwemmungen,MISC,,,de,2,,,,,,
-Deutschen Wasserstraßen,Deutschen Wasserstraßen,MISC,,,de,2,,,,,,
-Zwölf Jahre nach dem Hochwasser,Zwölf Jahre nach dem Hochwasser,MISC,,,de,2,,,,,,
-Erdrutsche a…,Erdrutsche a…,MISC,,,de,2,,,,,,
-Erdrutsche a,Erdrutsche a,MISC,,,de,2,,,,,,
-deutscher,deutscher,MISC,,,de,2,,,,,,
-deutsche,deutsche,MISC,,,de,2,,,,,,
-Flut-Hölle,Flut-Hölle,MISC,,,de,2,,,,,,
-Super-Taifun,Super-Taifun,MISC,,,de,2,,,,,,
-US-amerikanischen,US-amerikanischen,MISC,,,de,2,,,,,,
-chinesischen,chinesischen,MISC,,,de,2,,,,,,
-Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1,,,,,,
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1,,,,,,
-Einrichtun…,Einrichtun…,MISC,,,de,1,,,,,,
-Hochwasserwarnung via Glasfaserkabel,Hochwasserwarnung via Glasfaserkabel,MISC,,,de,1,,,,,,
-Wiener,Wiener,MISC,,,de,1,,,,,,
-Deutscher,Deutscher,MISC,,,de,1,,,,,,
-tausendjährliches,tausendjährliches,MISC,,,de,1,,,,,,
-sucht nach technischen …,sucht nach technischen …,MISC,,,de,1,,,,,,
-Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,1,,,,,,
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1,,,,,,
-ukrainischen,ukrainischen,MISC,,,de,1,,,,,,
-Zwei Menschen sterben bei Überschwemmung,Zwei Menschen sterben bei Überschwemmung,MISC,,,de,1,,,,,,
-russische,russische,MISC,,,de,1,,,,,,
-Videos,Videos,MISC,,,de,1,,,,,,
-russisch,russisch,MISC,,,de,1,,,,,,
-d…,d…,MISC,0.0,0.0,de,1,,,,,,
-Treimischer Teichen,Treimischer Teichen,MISC,,,de,1,,,,,,
-Ein Jahr nach der Katastrophe,Ein Jahr nach der Katastrophe,MISC,,,de,1,,,,,,
-Grenze,Grenze,MISC,,,de,1,,,,,,
-Rettun…,Rettun…,MISC,,,de,1,,,,,,
-Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1,,,,,,
-Euro,Euro,MISC,,,de,1,,,,,,
-Landesregierungen,Landesregierungen,MISC,0.0,0.0,de,1,,,,,,
-Betrof…,Betrof…,MISC,,,de,1,,,,,,
-Hochwasserschutz-Skandal,Hochwasserschutz-Skandal,MISC,,,de,1,,,,,,
-Reis,Reis,MISC,,,de,1,,,,,,
-Im Jahr 2024,Im Jahr 2024,MISC,,,de,1,,,,,,
-philippinische,philippinische,MISC,,,de,1,,,,,,
-Hochwasser …,Hochwasser …,MISC,,,de,1,,,,,,
-Ernstfall“,Ernstfall“,MISC,,,de,1,,,,,,
-Sanierungsarbeiten,Sanierungsarbeiten,MISC,,,de,1,,,,,,
-Groß-Aggschussgrabe…,Groß-Aggschussgrabe…,MISC,,,de,1,,,,,,
-Ein Jahr nach der Flut,Ein Jahr nach der Flut,MISC,,,de,1,,,,,,
-Zehn Tage lang,Zehn Tage lang,MISC,,,de,1,,,,,,
-Nutrias,Nutrias,MISC,,,de,1,,,,,,
-nic…,nic…,MISC,,,de,1,,,,,,
-Nager-Reviere,Nager-Reviere,MISC,,,de,1,,,,,,
-Nutria-Invasion,Nutria-Invasion,MISC,,,de,1,,,,,,
-Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,1,,,,,,
-Wetter“,Wetter“,MISC,,,de,1,,,,,,
-schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,1,,,,,,
-05.10.2025,05.10.2025,MISC,,,de,1,,,,,,
-12 Mio. Euro,12 Mio. Euro,MISC,,,de,1,,,,,,
-Die Hochwasserschutzanlage,Die Hochwasserschutzanlage,MISC,,,de,1,,,,,,
-mi…,mi…,MISC,,,de,1,,,,,,
-klimagerechten Bauen,klimagerechten Bauen,MISC,,,de,1,,,,,,
-Landeswarnzentrale,Landeswarnzentrale,MISC,,,de,1,,,,,,
-Uh…,Uh…,MISC,,,de,1,,,,,,
-Die Schwarze Elster,Die Schwarze Elster,MISC,,,de,1,,,,,,
-investi…,investi…,MISC,,,de,1,,,,,,
-Erdrutsche un…,Erdrutsche un…,MISC,,,de,1,,,,,,
-EC 135 der Bundeswehr,EC 135 der Bundeswehr,MISC,,,de,1,,,,,,
+",MISC,,,de,16
+mexikanischen,mexikanischen,MISC,,,de,5
+deutschen,deutschen,MISC,,,de,4
+US-amerikanischen,US-amerikanischen,MISC,,,de,2
+Deutschen Wasserstraßen,Deutschen Wasserstraßen,MISC,,,de,2
+deutscher,deutscher,MISC,,,de,2
+Flut-Hölle,Flut-Hölle,MISC,,,de,2
+Erdrutsche a…,Erdrutsche a…,MISC,,,de,2
+Erdrutsche a,Erdrutsche a,MISC,,,de,2
+Ein Jahr nach den verheerenden Überschwemmungen,Ein Jahr nach den verheerenden Überschwemmungen,MISC,,,de,2
+deutsche,deutsche,MISC,,,de,2
+Zwölf Jahre nach dem Hochwasser,Zwölf Jahre nach dem Hochwasser,MISC,,,de,2
+nichts Gutes,nichts Gutes,MISC,,,de,2
+Deutsch,Deutsch,MISC,,,de,2
+Super-Taifun,Super-Taifun,MISC,,,de,2
+Bads,Bads,MISC,,,de,2
+DDR-Spaßbad,DDR-Spaßbad,MISC,,,de,2
+chinesischen,chinesischen,MISC,,,de,2
+Ukrainer,Ukrainer,MISC,,,de,1
+russisch,russisch,MISC,,,de,1
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,1
+ukrainischen,ukrainischen,MISC,,,de,1
+russische,russische,MISC,,,de,1
+Videos,Videos,MISC,,,de,1
+Berliner,Berliner,MISC,,,de,1
+Hochwasserwarnung via Glasfaserkabel,Hochwasserwarnung via Glasfaserkabel,MISC,,,de,1
+d…,d…,MISC,0.0,0.0,de,1
+sucht nach technischen …,sucht nach technischen …,MISC,,,de,1
+Treimischer Teichen,Treimischer Teichen,MISC,,,de,1
+Landesregierungen,Landesregierungen,MISC,0.0,0.0,de,1
+Grenze,Grenze,MISC,,,de,1
+Rettun…,Rettun…,MISC,,,de,1
+Zwei Jahre nach dem,Zwei Jahre nach dem,MISC,,,de,1
+Deutscher,Deutscher,MISC,,,de,1
+Wiener,Wiener,MISC,,,de,1
+Hurrikan Melissa,Hurrikan Melissa,MISC,,,de,1
+Zwei Menschen sterben bei Überschwemmung,Zwei Menschen sterben bei Überschwemmung,MISC,,,de,1
+tausendjährliches,tausendjährliches,MISC,,,de,1
+Extremwetter-Ereignisse,Extremwetter-Ereignisse,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Hochwasserschutz-Skandal,Hochwasserschutz-Skandal,MISC,,,de,1
+Einrichtun…,Einrichtun…,MISC,,,de,1
+Ein Jahr nach der Katastrophe,Ein Jahr nach der Katastrophe,MISC,,,de,1
+Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
+philippinische,philippinische,MISC,,,de,1
+Hochwasser …,Hochwasser …,MISC,,,de,1
+Ernstfall“,Ernstfall“,MISC,,,de,1
+Sanierungsarbeiten,Sanierungsarbeiten,MISC,,,de,1
+Groß-Aggschussgrabe…,Groß-Aggschussgrabe…,MISC,,,de,1
+Ein Jahr nach der Flut,Ein Jahr nach der Flut,MISC,,,de,1
+Zehn Tage lang,Zehn Tage lang,MISC,,,de,1
+Nutrias,Nutrias,MISC,,,de,1
+nic…,nic…,MISC,,,de,1
+Nager-Reviere,Nager-Reviere,MISC,,,de,1
+Nutria-Invasion,Nutria-Invasion,MISC,,,de,1
+Nordseeküste,Nordseeküste,MISC,0.0,0.0,de,1
+Wetter“,Wetter“,MISC,,,de,1
+schleswig-holsteinische,schleswig-holsteinische,MISC,,,de,1
+05.10.2025,05.10.2025,MISC,,,de,1
+12 Mio. Euro,12 Mio. Euro,MISC,,,de,1
+Die Hochwasserschutzanlage,Die Hochwasserschutzanlage,MISC,,,de,1
+mi…,mi…,MISC,,,de,1
+klimagerechten Bauen,klimagerechten Bauen,MISC,,,de,1
+Landeswarnzentrale,Landeswarnzentrale,MISC,,,de,1
+Uh…,Uh…,MISC,,,de,1
+Die Schwarze Elster,Die Schwarze Elster,MISC,,,de,1
+investi…,investi…,MISC,,,de,1
+Betrof…,Betrof…,MISC,,,de,1
+Erdrutsche un…,Erdrutsche un…,MISC,,,de,1
+Reis,Reis,MISC,,,de,1
+EC 135 der Bundeswehr,EC 135 der Bundeswehr,MISC,,,de,1
