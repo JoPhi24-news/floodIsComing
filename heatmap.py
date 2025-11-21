@@ -106,9 +106,9 @@ for index, column in locationsDF.iterrows():
         counter = int(column['count']/maxCount*250+column['count']/sumCounts*1800)
         if(column['geotype']=='L'):   #large
             #counter = 1
-            delta = 30.0
+            delta = 15.0
         if(column['geotype']=='A'):   #country
-            delta = 7.0
+            delta = 5.0
         if(column['geotype']=='P'):  #city  T
             delta = 2.0 
 
@@ -118,10 +118,10 @@ for index, column in locationsDF.iterrows():
             lat1.append(x)
             long1.append(y)
             ax1.plot(x, y, 
-                    markersize=35,marker='o',linestyle='', markeredgecolor=None,
+                    markersize=2.5*delta,marker='o',linestyle='', markeredgecolor=None,
                     color='#aa3322', alpha=0.003,transform=ccrs.PlateCarree())                     
             ax1.plot(x, y, 
-                    markersize=15,marker='o',linestyle='', markeredgecolor=None,
+                    markersize=delta,marker='o',linestyle='', markeredgecolor=None,
                     color='#bb4422', alpha=0.005,transform=ccrs.PlateCarree())  
 #contour-plot
 sns.kdeplot(x=lat1, y=long1, fill=False,  levels=10, thresh=.0005, color='grey', transform=ccrs.PlateCarree()  )  
