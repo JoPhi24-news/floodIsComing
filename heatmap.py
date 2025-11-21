@@ -103,18 +103,20 @@ for index, column in locationsDF.iterrows():
   if(isinstance(column['longitude'], numbers.Number) and isinstance(column['latitude'], numbers.Number)):
     if((limits['latMin']<column['latitude']<limits['latMax']) and (limits['lonMin']<column['longitude']<limits['lonMax'])):
         delta = 1.0
-        counter = int(column['count']/maxCount*250+column['count']/sumCounts*1800)
+        counter = int(column['count']/maxCount*500+column['count']/sumCounts*2500)
         if(column['geotype']=='L'):   #large
             #counter = 1
             delta = 15.0
+        if(column['geotype']=='X'):   #country
+            delta = 5.0
         if(column['geotype']=='A'):   #country
             delta = 5.0
         if(column['geotype']=='P'):  #city  T
             delta = 2.0 
 
         for i in range(counter):
-            x=random.gauss(column['longitude'],delta)
-            y=random.gauss(column['latitude'],delta)
+            x=random.gauss(column['longitude'],1.5*delta)
+            y=random.gauss(column['latitude'],1.5*delta)
             lat1.append(x)
             long1.append(y)
             ax1.plot(x, y, 
