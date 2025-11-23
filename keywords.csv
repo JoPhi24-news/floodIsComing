@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.1711453595057236
 'Überschwemmung',de,Hazard,#9e3215,#d64118,3,0.1652552727040387
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,2,0.1571078558057555
+'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.15201552270780927
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.1438399426033599
-'Hochwasser Regen',de,Causes,#9e3215,#d64118,1,0.1393278400840537
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.1150808387774961
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.1092957303620945
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.1060758329932835
