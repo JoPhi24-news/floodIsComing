@@ -2,17 +2,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1173788894075704
 'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.0978986277019217
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0926836168543004
-'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.08936913458807397
+'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.0893691345880739
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0885986685001552
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0884346860144113
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,2,0.0878789239117385
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.0861337639695848
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0846406817148151
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,2,0.0835150422264911
-'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.0796040752668991
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,2,0.0718681037064264
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.0711091021723773
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0708120348088768
+'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.07051374897686423
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0448773248005616
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0301872971522039
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0192580008475475
