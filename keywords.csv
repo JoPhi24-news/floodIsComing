@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.1146652062873656
-'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.11282223599643483
+'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.1128222359964348
+'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.10650798443516984
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0885986685001552
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.0861337639695848
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0846406817148151
