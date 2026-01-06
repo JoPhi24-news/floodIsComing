@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.0705137489768642
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.0689200044898833
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0448773248005616
-'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.022642905442467304
-'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0163693007204153
+'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0226429054424673
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0150695757179949
+'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.013913905612353004
