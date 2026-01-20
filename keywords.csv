@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.1059460408266522
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,2,0.0947258320432545
-'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.07560139270420796
+'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,2,0.0756013927042079
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0721350781851277
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.0689200044898833
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0653267038954121
@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0548824544676577
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.0508407771783268
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0381457260804773
-'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0130533490078769
+'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.011695406656695363
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0084679541077664
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0052476227621507
