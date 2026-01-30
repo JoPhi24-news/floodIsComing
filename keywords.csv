@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0546153437387547
 'Überflutung',de,Hazard,#9e3215,#d64118,2,0.0524682786184849
 'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.051576938178729
-'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.0506507044939406
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0490842100418
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.0485291563158635
+'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.04800363881984951
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.023426244029173
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0077172115685864
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0061180968428611
