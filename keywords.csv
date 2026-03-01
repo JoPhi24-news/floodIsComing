@@ -7,11 +7,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.0576346589774034
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.0502729777994968
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0496508605318241
-'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.043145160782119524
+'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.0431451607821195
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.042903797996872
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0410415949903457
-'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0357408695052005
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0343124751485625
+'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.031129814079420424
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0272463593175577
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.023426244029173
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0027202422883899
