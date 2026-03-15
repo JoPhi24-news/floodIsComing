@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überschwemmung',de,Hazard,#9e3215,#d64118,2,0.0476255610986162
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.0466324211295722
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0412901802576703
-'Überflutung',de,Hazard,#9e3215,#d64118,2,0.03423551063052473
+'Überflutung',de,Hazard,#9e3215,#d64118,2,0.0342355106305247
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.029668964077819
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0240324112753631
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0196854946069354
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0010238221708912
-'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0008720473522313
+'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.000741240249396605
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0006502218320551
