@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.1126641705623268
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.1012011649738227
-'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.06940927643278252
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,2,0.0655742442281902
+'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.06304828996786513
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,1,0.0580725997568934
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.0561604864319977
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.0556320613374437
