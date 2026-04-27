@@ -5,30 +5,30 @@ GEO,GEO,ORG,1.0909090909090908,0.0,de,5.5
 TTS-Player,TTS-Player,ORG,0.05454545454545456,0.0,de,5.5
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.48979591836734704,0.0,de,4.8999999999999995
 DWD,DWD,ORG,-0.08163265306122448,0.0,de,4.8999999999999995
-Landesamtes für Umwelt,Landesamtes für Umwelt,ORG,0.0,0.0,de,3.9999999999999996
+Landesamtes für Umwelt,Landesamtes für Umwelt,ORG,0.0,0.08333333333333334,de,3.9999999999999996
 Umweltministerium,Umweltministerium,ORG,0.3783783783783784,0.0,de,3.6999999999999997
 SPD,SPD,ORG,-0.3648648648648649,0.13513513513513514,de,3.6999999999999997
+GDV,GDV,ORG,0.0,0.32258064516129037,de,3.0999999999999996
 "Link
 ","Link
 ",ORG,-0.6774193548387096,0.10752688172043011,de,3.0999999999999996
-GDV,GDV,ORG,0.0,0.32258064516129037,de,3.0999999999999996
 PAP,PAP,ORG,-0.25,0.0,de,2.8
 EU-Kommission,EU-Kommission,ORG,-0.25,0.0,de,2.8
 Salzburg AG,Salzburg AG,ORG,0.0,0.0,de,2.8
 Landesamt fü,Landesamt fü,ORG,0.0,0.0,de,2.8
 Schutzbauten,Schutzbauten,ORG,-0.7,0.0,de,2.0
-A3 +++ Zweistellige Temperaturen und Hochwasser +++ Alkoholfahrt,A3 +++ Zweistellige Temperaturen und Hochwasser +++ Alkoholfahrt,ORG,-0.8157894736842105,0.0,de,1.9
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1.9
+Militär,Militär,ORG,0.0,0.0,de,1.9
 Merz-Regierung!,Merz-Regierung!,ORG,0.0,0.0,de,1.9
 Ahrflut,Ahrflut,ORG,0.3684210526315789,0.0,de,1.9
 Al…,Al…,ORG,0.0,0.0,de,1.9
 Klimakonferenz,Klimakonferenz,ORG,0.0,0.0,de,1.9
 Kommune,Kommune,ORG,0.0,0.0,de,1.9
 European Elvis Festival,European Elvis Festival,ORG,-0.8157894736842105,0.0,de,1.9
-Militär,Militär,ORG,0.0,0.0,de,1.9
 D…,D…,ORG,0.0,0.0,de,1.9
+A3 +++ Zweistellige Temperaturen und Hochwasser +++ Alkoholfahrt,A3 +++ Zweistellige Temperaturen und Hochwasser +++ Alkoholfahrt,ORG,-0.8157894736842105,0.0,de,1.9
 Europäischen Union,Europäischen Union,ORG,0.0,0.0,de,1.9
 LfU,LfU,ORG,0.0,0.0,de,1.9
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.0,0.0,de,1.9
 Bayern-Team,Bayern-Team,ORG,0.0,0.0,de,1.9
 H…,H…,ORG,0.0,0.0,de,1.9
 di…,di…,ORG,0.0,0.0,de,1.9
@@ -79,8 +79,8 @@ Die steirischen Grünen,Die steirischen Grünen,ORG,0.0,0.0,de,1.0
 bayerische Flachland,bayerische Flachland,ORG,0.0,0.0,de,1.0
 Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1.0
 Aschaffenbur…,Aschaffenbur…,ORG,0.0,0.0,de,1.0
-Polizei berich…,Polizei berich…,ORG,0.0,0.0,de,1.0
 Hochwasserkatastrophe in Schwaben,Hochwasserkatastrophe in Schwaben,ORG,0.0,0.0,de,1.0
+Polizei ermit,Polizei ermit,ORG,0.0,0.0,de,1.0
 S…,S…,ORG,0.0,0.0,de,1.0
 Hochw…,Hochw…,ORG,0.7,0.0,de,1.0
 Auto,Auto,ORG,-0.85,0.0,de,1.0
@@ -97,7 +97,7 @@ Instagram…,Instagram…,ORG,0.0,0.0,de,1.0
 Technisches Hilfswerk,Technisches Hilfswerk,ORG,0.0,0.0,de,1.0
 Bevö…,Bevö…,ORG,0.0,0.0,de,1.0
 Wassers…,Wassers…,ORG,0.0,0.0,de,1.0
-Polizei ermit,Polizei ermit,ORG,0.0,0.0,de,1.0
+Polizei berich…,Polizei berich…,ORG,0.0,0.0,de,1.0
 ÖVP,ÖVP,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdien…,Deutsche Wetterdien…,ORG,1.0,0.0,de,1.0
 AP16.02.2026,AP16.02.2026,ORG,0.0,0.0,de,1.0
@@ -107,9 +107,9 @@ Nieders…,Nieders…,ORG,0.0,0.0,de,1.0
 Küstenschutz,Küstenschutz,ORG,0.0,0.0,de,1.0
 Grünen-Fr…,Grünen-Fr…,ORG,0.0,0.0,de,1.0
 Saarbrücken/Neunkirchen,Saarbrücken/Neunkirchen,ORG,-1.0,0.0,de,1.0
-wi…,wi…,ORG,0.0,0.0,de,1.0
 Trier/Koblenz,Trier/Koblenz,ORG,0.0,0.0,de,1.0
 Höchststand …,Höchststand …,ORG,0.0,0.0,de,1.0
+wi…,wi…,ORG,0.0,0.0,de,1.0
 Hoc…,Hoc…,ORG,0.7,0.0,de,1.0
 picture alliance/dpa/EUROPA PRESS,picture alliance/dpa/EUROPA PRESS,ORG,0.0,0.0,de,1.0
 außergewöhnlic…,außergewöhnlic…,ORG,0.0,0.0,de,1.0
