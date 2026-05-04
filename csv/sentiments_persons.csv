@@ -2,23 +2,22 @@
 Sarah Harrison,Sarah Harrison,PER,-0.5357142857142857,0.14285714285714288,de,2.8
 Hennadij Truchanow,Hennadij Truchanow,PER,0.0,0.0,de,2.0
 "Sturmtief ""Elli","Sturmtief ""Elli",PER,0.28947368421052627,0.0,de,1.9
-Anja Besand,Anja Besand,PER,0.0,0.0,de,1.9
 Alexander Dobrindt,Alexander Dobrindt,PER,0.0,0.0,de,1.9
+Mürbes Eis,Mürbes Eis,PER,0.0,0.0,de,1.9
 Warnstufe Rot,Warnstufe Rot,PER,0.0,0.0,de,1.9
 Prabowo Subianto,Prabowo Subianto,PER,0.0,0.0,de,1.9
-Mürbes Eis,Mürbes Eis,PER,0.0,0.0,de,1.9
+Anja Besand,Anja Besand,PER,0.0,0.0,de,1.9
 Suzanne Brookhouse Hochwasserschutz-Arbeiten,Suzanne Brookhouse Hochwasserschutz-Arbeiten,PER,0.0,0.0,de,1.3
-Max Tischler,Max Tischler,PER,0.0,0.0,de,1.0
+Philippe Tabarot,Philippe Tabarot,PER,0.0,0.0,de,1.0
 Franz Kropf,Franz Kropf,PER,0.0,0.0,de,1.0
 Sturmtief Leonardo,Sturmtief Leonardo,PER,0.0,0.0,de,1.0
 Oberwarter Wehoferbach,Oberwarter Wehoferbach,PER,0.0,0.0,de,1.0
 Florian Hamb,Florian Hamb,PER,0.0,0.0,de,1.0
 Klubobfrau Sandra Krautwaschl,Klubobfrau Sandra Krautwaschl,PER,0.0,0.0,de,1.0
 Axa-Studie mahnt Versäumnisse von Hausbesitzern,Axa-Studie mahnt Versäumnisse von Hausbesitzern,PER,0.0,0.0,de,1.0
-Juiz de Fora,Juiz de Fora,PER,0.0,0.0,de,1.0
-Philippe Tabarot,Philippe Tabarot,PER,0.0,0.0,de,1.0
-Donald Trumps Kommunikationsstil,Donald Trumps Kommunikationsstil,PER,0.0,0.0,de,1.0
 José María Balcázar,José María Balcázar,PER,0.0,0.0,de,1.0
+Juiz de Fora,Juiz de Fora,PER,0.0,0.0,de,1.0
+Donald Trump,Donald Trump,PER,0.7,0.0,de,1.0
 Landeshauptfrau-Stellvertreter Stephan Pernkopf,Landeshauptfrau-Stellvertreter Stephan Pernkopf,PER,0.0,1.0,de,1.0
 Vermisster Feuerwehrmann,Vermisster Feuerwehrmann,PER,-1.0,0.0,de,1.0
 Tilo Kummer,Tilo Kummer,PER,0.0,0.0,de,1.0
@@ -26,10 +25,11 @@ Landesumweltanwältin Gishild Schaufler,Landesumweltanwältin Gishild Schaufler,
 Naturschutzreferentin Marlene Svazek,Naturschutzreferentin Marlene Svazek,PER,0.0,0.0,de,1.0
 Top-Krisenmanager Thomas Kaser,Top-Krisenmanager Thomas Kaser,PER,1.0,0.0,de,1.0
 Urgewald keilt,Urgewald keilt,PER,0.0,0.0,de,1.0
-Donald Trump,Donald Trump,PER,0.7,0.0,de,1.0
+Drohnenpilot Bernhard Höfferer,Drohnenpilot Bernhard Höfferer,PER,0.7,0.0,de,1.0
+Max Tischler,Max Tischler,PER,0.0,0.0,de,1.0
 Pülswerda zu,Pülswerda zu,PER,0.0,0.0,de,1.0
+Donald Trumps Kommunikationsstil,Donald Trumps Kommunikationsstil,PER,0.0,0.0,de,1.0
 Sturmtief „Harry,Sturmtief „Harry,PER,0.0,0.0,de,1.0
-Andreas Hofer,Andreas Hofer,PER,0.0,0.0,de,1.0
 Sturmtief Detlef,Sturmtief Detlef,PER,0.7,0.0,de,1.0
 Ministerin Behrens,Ministerin Behrens,PER,0.7,0.0,de,1.0
 Arbeiterkammer si,Arbeiterkammer si,PER,0.0,0.0,de,1.0
@@ -39,8 +39,8 @@ Hurrikan Melissa,Hurrikan Melissa,PER,0.0,0.0,de,1.0
 Ex-Bürgermeister von Odessa,Ex-Bürgermeister von Odessa,PER,0.0,0.0,de,1.0
 Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.0,0.0,de,1.0
 Ben von R,Ben von R,PER,1.0,0.0,de,1.0
+Andreas Hofer,Andreas Hofer,PER,0.0,0.0,de,1.0
 Trevor Noah,Trevor Noah,PER,0.0,0.0,de,1.0
-Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1.0
 Wintersturm Byron,Wintersturm Byron,PER,0.0,0.0,de,1.0
 Toni Vogg,Toni Vogg,PER,0.0,0.0,de,1.0
 Patrick Schnieder,Patrick Schnieder,PER,-0.35,0.5,de,1.0
@@ -50,4 +50,5 @@ Tirols Wasserkreislauf,Tirols Wasserkreislauf,PER,0.0,0.0,de,1.0
 Tirols Hydrographischer,Tirols Hydrographischer,PER,0.0,0.0,de,1.0
 Wolfgang Loitzl,Wolfgang Loitzl,PER,-0.5,0.5,de,1.0
 Niedersachsens Landesregierung,Niedersachsens Landesregierung,PER,-0.7,0.0,de,1.0
-Drohnenpilot Bernhard Höfferer,Drohnenpilot Bernhard Höfferer,PER,0.7,0.0,de,1.0
+Sturm «Bualoi,Sturm «Bualoi,PER,0.7,0.0,de,1.0
+Miranda Priestly,Miranda Priestly,PER,0.7,0.0,de,1.0
