@@ -2,8 +2,8 @@
 lrs,lrs,ORG,-0.32113821138211374,0.0,de,8.200000000000001
 lby,lby,ORG,-0.09210526315789472,0.0,de,7.6000000000000005
 Umweltministerium,Umweltministerium,ORG,0.10937499999999999,0.0,de,6.4
+GEO,GEO,ORG,1.09375,0.0,de,6.4
 +++Alcaraz,+++Alcaraz,ORG,0.0,0.0,de,5.5
-GEO,GEO,ORG,1.0909090909090908,0.0,de,5.5
 TTS-Player,TTS-Player,ORG,0.05454545454545456,0.0,de,5.5
 DWD,DWD,ORG,-0.08163265306122448,0.0,de,4.8999999999999995
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.48979591836734704,0.0,de,4.8999999999999995
@@ -51,10 +51,10 @@ Minister Goldschmidt,Minister Goldschmidt,ORG,0.0,0.0,de,1.3
 Küstenschutz,Küstenschutz,ORG,0.0,0.0,de,1.0
 Grünen-Fr…,Grünen-Fr…,ORG,0.0,0.0,de,1.0
 Saarbrücken/Neunkirchen,Saarbrücken/Neunkirchen,ORG,-1.0,0.0,de,1.0
-Trier/Koblenz,Trier/Koblenz,ORG,0.0,0.0,de,1.0
-Höchststand …,Höchststand …,ORG,0.0,0.0,de,1.0
-KI-System,KI-System,ORG,0.0,0.0,de,1.0
 wi…,wi…,ORG,0.0,0.0,de,1.0
+Trier/Koblenz,Trier/Koblenz,ORG,0.0,0.0,de,1.0
+KI-System,KI-System,ORG,0.0,0.0,de,1.0
+Höchststand …,Höchststand …,ORG,0.0,0.0,de,1.0
 Hoc…,Hoc…,ORG,0.7,0.0,de,1.0
 Jahr-Jubiläum,Jahr-Jubiläum,ORG,0.0,0.0,de,1.0
 Landeswarnzentrale,Landeswarnzentrale,ORG,0.0,0.0,de,1.0
@@ -72,8 +72,8 @@ Hochwasserg…,Hochwasserg…,ORG,0.0,0.0,de,1.0
 Die Grünen,Die Grünen,ORG,-0.7,0.0,de,1.0
 Wiener Philharmonikern,Wiener Philharmonikern,ORG,0.7,0.0,de,1.0
 Diktatorensohn h…,Diktatorensohn h…,ORG,0.0,0.0,de,1.0
-Fasnet-Fans,Fasnet-Fans,ORG,-0.7,0.0,de,1.0
 Deutschen We…,Deutschen We…,ORG,0.7,0.0,de,1.0
+Fasnet-Fans,Fasnet-Fans,ORG,-0.7,0.0,de,1.0
 AK für besseren Versicherungsschutz,AK für besseren Versicherungsschutz,ORG,0.0,0.0,de,1.0
 deu…,deu…,ORG,0.0,0.0,de,1.0
 CoV-Pandemie,CoV-Pandemie,ORG,0.0,0.0,de,1.0
