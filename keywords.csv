@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.06757578269864994
-'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.054127613001645
+'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.0675757826986499
+'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.05501464476107567
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0528791357725887
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,1,0.0515455748462518
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,1,0.0487992640682608
