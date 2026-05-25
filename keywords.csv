@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.0392670799100416
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,1,0.0379900528889456
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0358620206940008
-'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.02662248721780737
+'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.022929144135136203
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0163227765879814
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.0122019934223463
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0115146883336993
