@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0087345585362871
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.0054140893045849
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.005109128385444
-'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.00147094210567152
-'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0006482372153419
+'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0014709421056715
+'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.000551001633040615
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0001423938226074
