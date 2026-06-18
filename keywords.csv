@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0255333322173258
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0171213621376358
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0138743600997841
-'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.007424374755844
+'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0063107185424674
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.0054140893045849
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.005109128385444
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0016178111713475
