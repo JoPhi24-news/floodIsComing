@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.0857094322362515
-'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,2,0.08278575639255138
 'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.0792174823736433
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,1,0.078309293969598
+'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,2,0.0711179679336686
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.0626985159000724
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,2,0.0587936597682518
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,1,0.0535912879820232
