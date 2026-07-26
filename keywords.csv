@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0408283829225416
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.0297099694304038
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0265679788944418
-'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.00903201286996283
-'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0048998228695308
+'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0090320128699628
+'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.00521495443910118
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0021055245965104
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0003578249990097
