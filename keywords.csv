@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0651056600565719
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.057069075305984
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.0499346355071886
-'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0419012637979651
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0408283829225416
+'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.03696620922827033
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0356864530608504
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.0297099694304038
-'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.02438296206027553
+'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0243829620602755
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0090320128699628
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0052149544391011
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0021055245965104
