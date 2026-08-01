@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.044659673642055
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0369662092282703
 'Hochwasser Tote',de,Impacts,#9e3215,#d64118,1,0.0297099694304038
-'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.023073683748494653
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0223756827512341
+'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.02006267618622041
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0090320128699628
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0056328312732359
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0021055245965104
