@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0882556281751273
-'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,3,0.07150483454812048
+'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,3,0.0715048345481204
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.0681915302127185
-'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.0662277212003347
+'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.06529576802028449
 'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.0597223846702868
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.057069075305984
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,2,0.048288835240215
