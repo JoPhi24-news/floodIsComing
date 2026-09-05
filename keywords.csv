@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Verletzte',de,Impacts,#9e3215,#d64118,1,0.1142896015347622
 'Hochwasserschutz',de,Adaptation,#9e3215,#d64118,2,0.0867512494430892
 'Hochwasser',de,Hazard,#9e3215,#d64118,3,0.0672322056461044
+'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,2,0.05724052895833982
 'Hochwasser Starkregen',de,Causes,#9e3215,#d64118,2,0.057069075305984
 'Überschwemmung',de,Hazard,#9e3215,#d64118,1,0.0563512088114451
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.0549718148280499
 'Überflutung',de,Hazard,#9e3215,#d64118,1,0.0510508082063847
 'Hochwasser Klimawandel',de,Causes,#9e3215,#d64118,2,0.048288835240215
-'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,2,0.045656377667251
 'Hochwasser Feuerwehr',de,Mitigation,#9e3215,#d64118,1,0.0418780469768154
 'Hochwasser Deiche',de,Adaptation,#9e3215,#d64118,1,0.0389212680188677
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,2,0.0381371693183521
