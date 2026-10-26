@@ -10,7 +10,7 @@ DWD,DWD,ORG,-0.0689655172413793,0.0,de,5.8
 BUND,BUND,ORG,-0.07608695652173914,0.0,de,4.6
 SPD,SPD,ORG,-0.29347826086956524,0.10869565217391305,de,4.6
 CDU,CDU,ORG,-0.3375,0.0,de,4.0
-Landesamtes für Umwelt,Landesamtes für Umwelt,ORG,0.0,0.0,de,3.9999999999999996
+Landesamtes für Umwelt,Landesamtes für Umwelt,ORG,0.0,0.08333333333333334,de,3.9999999999999996
 "Link
 ","Link
 ",ORG,-0.4666666666666666,0.08333333333333334,de,3.9999999999999996
@@ -85,8 +85,8 @@ Urgewald,Urgewald,ORG,0.0,0.0,de,1.0
 Bundes…,Bundes…,ORG,0.0,0.0,de,1.0
 March,March,ORG,-1.0,0.0,de,1.0
 Hochwasserschützer,Hochwasserschützer,ORG,0.0,0.0,de,1.0
+Hochwasserkatastrophe in Schwaben,Hochwasserkatastrophe in Schwaben,ORG,0.0,0.0,de,1.0
 Polizei berich…,Polizei berich…,ORG,0.0,0.0,de,1.0
-Polizei ermit,Polizei ermit,ORG,0.0,0.0,de,1.0
 außergewöhnlic…,außergewöhnlic…,ORG,0.0,0.0,de,1.0
 picture alliance/dpa/EUROPA PRESS,picture alliance/dpa/EUROPA PRESS,ORG,0.0,0.0,de,1.0
 Australische Polizei,Australische Polizei,ORG,-0.7,0.0,de,1.0
@@ -102,7 +102,7 @@ stö,stö,ORG,0.0,0.0,de,1.0
 Bundesanstalt Technisches Hilfswerk,Bundesanstalt Technisches Hilfswerk,ORG,-0.425,0.0,de,1.0
 Hött…,Hött…,ORG,0.7,0.0,de,1.0
 Uniqa-Versicherung,Uniqa-Versicherung,ORG,0.0,0.0,de,1.0
-Hochwasserkatastrophe in Schwaben,Hochwasserkatastrophe in Schwaben,ORG,0.0,0.0,de,1.0
+Polizei ermit,Polizei ermit,ORG,0.0,0.0,de,1.0
 Perschl…,Perschl…,ORG,0.0,0.0,de,1.0
 FPÖ,FPÖ,ORG,0.0,0.0,de,1.0
 ORF Radio Salzburg,ORF Radio Salzburg,ORG,0.0,0.0,de,1.0
@@ -254,9 +254,9 @@ Nieders…,Nieders…,ORG,0.0,0.0,de,1.0
 Schotte…,Schotte…,ORG,0.0,0.0,de,1.0
 Küstenschutz,Küstenschutz,ORG,0.0,0.0,de,1.0
 Grünen-Fr…,Grünen-Fr…,ORG,0.0,0.0,de,1.0
-wi…,wi…,ORG,0.0,0.0,de,1.0
 Trier/Koblenz,Trier/Koblenz,ORG,0.0,0.0,de,1.0
 Höchststand …,Höchststand …,ORG,0.0,0.0,de,1.0
+wi…,wi…,ORG,0.0,0.0,de,1.0
 Hoc…,Hoc…,ORG,0.7,0.0,de,1.0
 Aschaffenbur…,Aschaffenbur…,ORG,0.0,0.0,de,1.0
 Technisches Hilfswerk,Technisches Hilfswerk,ORG,0.0,0.0,de,1.0
@@ -279,8 +279,8 @@ Landesamt für Umwelt- und Kopiere,Landesamt für Umwelt- und Kopiere,ORG,-0.7,0
 h…,h…,ORG,0.0,0.0,de,1.0
 Wet…,Wet…,ORG,0.0,0.0,de,1.0
 K…,K…,ORG,0.7,0.0,de,1.0
-Schmelze entsch…,Schmelze entsch…,ORG,0.0,0.0,de,1.0
 Vorhersag…,Vorhersag…,ORG,0.0,0.0,de,1.0
+Schmelze entsch…,Schmelze entsch…,ORG,0.0,0.0,de,1.0
 Munich Re,Munich Re,ORG,0.0,0.0,de,1.0
 Botenstoffe,Botenstoffe,ORG,0.0,0.0,de,1.0
 Ill,Ill,ORG,0.0,0.0,de,1.0
