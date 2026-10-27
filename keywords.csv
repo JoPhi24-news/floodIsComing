@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Regen',de,Causes,#9e3215,#d64118,1,0.0324169389205992
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0184384594071015
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0180544567457956
-'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.017824153639747074
+'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.017824153639747
 'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0038010082808548
-'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0025896727744947
+'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.002351236858320495
 'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0006997847524211
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0004268292840157
