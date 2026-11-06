@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser Pegel',de,Hazard,#9e3215,#d64118,1,0.0184384594071015
 'Hochwasser Vermisste',de,Impacts,#9e3215,#d64118,1,0.017824153639747
 'Hochwasser Schifffahrt',de,Impacts,#9e3215,#d64118,1,0.0147095114988372
-'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0038010082808548
+'Hochwasser Evakuierung',de,Mitigation,#9e3215,#d64118,1,0.0032308570387265803
 'Hochwasser Schutzbauten',de,Adaptation,#9e3215,#d64118,1,0.0017054018846485
-'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0005948170395579349
+'Hochwasser Gaza',de,Hazard,#9e3215,#d64118,1,0.0005948170395579
 'Hochwasser Sandsäcke',de,Mitigation,#9e3215,#d64118,1,0.0003628048914133
